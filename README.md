@@ -1,2 +1,2 @@
 # Auto-drive
-What if we use detectron-2 on auto-drive ? Can we adjust the algorithm ? 
+What if we use detectron-2 on auto-drive ? Can he learn as fast as it seems to be ? Let's explore that...
